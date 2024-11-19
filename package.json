@@ -60,7 +60,7 @@
     "date-fns": "^2.9.0",
     "eslint-plugin-cypress": "^2.9.0",
     "filehound": "^1.17.4",
-    "firebase": "^7.14.2",
+    "firebase": "^10.9.0",
     "husky": "^4.2.1",
     "image-compressor.js": "^1.1.4",
     "jest": "^25.1.0",
